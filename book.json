@@ -1,25 +1,3 @@
 {
-    "plugins": [
-        "theme-comscore"
-    ],
-    "output": null,
-    "author": "makie <makieking629@gmail.com>",
-    "generator": "site",
-    "variables": {},
-    "title": "Makie GitBook",
-    "links": {
-        "sharing": {
-            "all": null,
-            "facebook": null,
-            "google": null,
-            "twitter": null,
-            "weibo": null
-        },
-        "sidebar": {
-            "Makie's Blog": "http://www.makieking.com"
-        }
-    },
-    "description": "This is a recording of the book notes",
-    "extension": null,
-    "pluginsConfig": {}
+    "gitbook": "2.4.3"
 }
