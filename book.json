@@ -1,35 +1,38 @@
 {
-  "author": "makie <makieking629@gmail.com>",
-  "description": "This is a recording of the book notes",
-  "extension": null,
-  "generator": "site",
-  "links": {
-    "sharing": {
-      "all": null,
-      "facebook": null,
-      "google": null,
-      "twitter": null,
-      "weibo": null
+    "plugins": [
+        "theme-comscore"
+    ],
+    "output": null,
+    "author": "makie <makieking629@gmail.com>",
+    "pdf": {
+        "fontSize": 12,
+        "footerTemplate": null,
+        "headerTemplate": null,
+        "margin": {
+            "bottom": 36,
+            "left": 62,
+            "right": 62,
+            "top": 36
+        },
+        "pageNumbers": false,
+        "paperSize": "a4"
     },
-    "sidebar": {
-      "Makie's Blog": "http://www.makieking.com"
-    }
-  },
-  "output": null,
-  "pdf": {
-    "fontSize": 12,
-    "footerTemplate": null,
-    "headerTemplate": null,
-    "margin": {
-      "bottom": 36,
-      "left": 62,
-      "right": 62,
-      "top": 36
+    "generator": "site",
+    "variables": {},
+    "title": "Makie GitBook",
+    "links": {
+        "sharing": {
+            "all": null,
+            "facebook": null,
+            "google": null,
+            "twitter": null,
+            "weibo": null
+        },
+        "sidebar": {
+            "Makie's Blog": "http://www.makieking.com"
+        }
     },
-    "pageNumbers": false,
-    "paperSize": "a4"
-  },
-  "plugins": [],
-  "title": "Makie GitBook",
-  "variables": {}
+    "description": "This is a recording of the book notes",
+    "extension": null,
+    "pluginsConfig": {}
 }
