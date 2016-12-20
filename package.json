@@ -1,0 +1,8 @@
+{
+  "name": "handbook",
+  "version": "0.0.1",
+  "devDependencies": {},
+  "dependencies": {
+    "gitbook-plugin-advanced-emoji": "^0.2.1"
+  }
+}
