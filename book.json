@@ -1,4 +1,7 @@
 {
     "gitbook": "3.2.1",
-    "plugins" : ["advanced-emoji"]
+    "plugins": [
+        "advanced-emoji",
+        "autocover"
+    ]
 }
