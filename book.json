@@ -1,9 +1,4 @@
 {
     "gitbook": "3.2.2",
-    "pluginsConfig": {
-        "theme-default": {
-            "showLevel": false
-        }
-    },
     "plugins" : ["advanced-emoji"]
 }
