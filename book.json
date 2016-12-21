@@ -1,7 +1,11 @@
 {
     "gitbook": "3.2.1",
     "plugins": [
-        "advanced-emoji",
-        "autocover"
-    ]
+        "advanced-emoji"
+    ],
+    "pluginsConfig": {
+        "advanced-emoji": {
+            "embedEmojis": true
+        }
+    }
 }
