@@ -1,3 +1,11 @@
 {
-    "gitbook": "3.2.2"
+    "gitbook": "3.2.2",
+    "plugins": [
+        "advanced-emoji"
+    ],
+    "pluginsConfig": {
+        "advanced-emoji": {
+            "embedEmojis": true
+        }
+    }
 }
